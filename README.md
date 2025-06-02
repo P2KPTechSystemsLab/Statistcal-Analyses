@@ -1,6 +1,3 @@
-Certainly! Here's the **complete and final README** combining **data transformations**, **model diagnostics**, and all your subsequent **depth effect analyses** (across treatment, time, and their interaction). This version is clean, professional, and fully inclusive.
-
----
 
 # 📘 Soil Depth Effect Analysis: Transformations, Treatment, Time & Interaction
 
@@ -176,10 +173,9 @@ soil-depth-analysis/
 ## 📥 Optional Deliverables
 
 ✅ `.md` or `.pdf` version of this README
-✅ GitHub repository template
-✅ Plot-enhanced version of this README with images
+✅ 
 ✅ Zip folder of organized code and outputs
 
 ---
 
-Let me know if you'd like this README exported, published, or formatted for academic submission.
+
