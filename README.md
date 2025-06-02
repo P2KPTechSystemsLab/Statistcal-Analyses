@@ -52,7 +52,7 @@ def check_model(model, title):
     print(f"{title} - Shapiro-Wilk p = {p:.4f}")
 ```
 
-**Goal**: Select a transformation (if needed) that improves residual normality before modeling with `ols()` from `statsmodels`.
+**Goal**: improves residual normality before model fitting.
 
 ---
 
