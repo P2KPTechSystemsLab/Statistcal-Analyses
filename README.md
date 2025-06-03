@@ -168,10 +168,9 @@ soil-depth-analysis/
 
 ## 📥 Optional Deliverables
 
-✅ `.md` or `.pdf` version of this README
+✅ `.md` 
 ✅ 
 ✅ Zip folder of organized code and outputs
 
----
 
 
