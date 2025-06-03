@@ -20,11 +20,7 @@ The dataset is structured as a long-format DataFrame with the following variable
   * `Root Mixed`
   * `Leaf Mulched`
   * `Leaf Mixed`
-* **Day**: Time points, typically:
-
- 
-
----
+* **Day**: Time points, 
 
 ## 🔄 2. Data Transformation & Model Diagnostics
 
